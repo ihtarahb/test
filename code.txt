@@ -3,3 +3,9 @@ git init to initialize a dir
 git add <fname> to add to repo
 git commit to stage the file
 git status gives the status of the repo
+
+
+git diff gives the changed from commited file to present file.
+Need to add a file everytime before commit . 
+
+
