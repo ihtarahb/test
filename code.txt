@@ -12,3 +12,5 @@ Once you git add , its staged . To check the diff between the staged and last co
 
 INIT -> ADD -> COMMIt : initialize -> add to repo ( staged ) -> commit the changes 
 
+git checkout <old ver> filname 
+git checkout HEAD filename <- back to most recent version 
