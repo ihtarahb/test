@@ -8,4 +8,7 @@ git status gives the status of the repo
 git diff gives the changed from commited file to present file.
 Need to add a file everytime before commit . 
 
+Once you git add , its staged . To check the diff between the staged and last commit file : git dif --staged 
+
+INIT -> ADD -> COMMIt : initialize -> add to repo ( staged ) -> commit the changes 
 
